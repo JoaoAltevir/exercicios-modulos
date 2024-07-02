@@ -1,5 +1,5 @@
 function areaCirculo(r){
-    let resultado = 3.14 * (r   ** 2);
+    let resultado = 3.14 * (r ** 2);
     return resultado;
 }
 const areaTriang = function(b,h){
